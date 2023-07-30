@@ -1,0 +1,10 @@
+.title {
+    text-decoration: none;
+    color: white;
+    font-family: bebas neue;
+    letter-spacing: 10px;
+}
+
+.navbar-header > a {
+    text-decoration: none;
+}
